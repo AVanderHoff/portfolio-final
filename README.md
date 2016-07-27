@@ -1,5 +1,6 @@
 # Proof-Database
 
+## Wrap input in single ($) or double ($$) dollar signs to convert to TEX
 #### Converts standard text into Tex Mathematical Typesetting.
 #### Ability to search various Stack Exchange sites by topic.
 #### Ability to save in  Firebase database.
